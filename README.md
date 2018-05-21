@@ -7,5 +7,8 @@ This project is a character tracker for Game Masters in the Star Wars role playi
 # Motivation
 I wanted to make this code because I have a friend who is constantly the GM for our game of Star Wars. This code was written to help him to keep track of all the player characters and their wounds and strain. I also GM occasionally, and thought that this could be useful. 
 
+# Installation
+Download the FinalProject.cpp code. Move the code to wherever you want to store it on your computer and when you run the code it will create the files necassary. 
+
 # Tests
 Start the program, select New Game, and then add characters. Overall it should be intuitive.
